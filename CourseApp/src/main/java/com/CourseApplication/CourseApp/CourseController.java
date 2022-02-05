@@ -11,6 +11,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.CourseApplication.entity.Course;
+import com.CourseApplication.repository.CourseRepository;
+
 @RestController
 public class CourseController {
 	

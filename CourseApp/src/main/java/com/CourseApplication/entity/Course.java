@@ -1,4 +1,4 @@
-package com.CourseApplication.CourseApp;
+package com.CourseApplication.entity;
 
 import java.math.BigInteger;
 
